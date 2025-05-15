@@ -10,5 +10,5 @@ El objetivo de este trabajo es analizar cuáles de estas variables climáticas h
 https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fatharvasoundankar%2Fshifting-seas-ocean-climate-and-marine-life-dataset
 
 
-Análisis Exploratorio (analisis_exploratorio.ipynb)
+Análisis Exploratorio (Ingenias_final.ipynb)
 Este archivo nos da un primer vistazo sobre la información que brinda cada columna y algunas relaciones entre sí. Se trabaja en corregir valores faltantes y en tratar los outliers.
